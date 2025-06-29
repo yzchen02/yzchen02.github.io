@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yuzhe Chen/Aiden"
+title                    : "Yuzhe Chen/Aidan"
 title_separator          : "-"
 name                     : &name "Yuzhe Chen"
 description              : &description "M.S.@TJU"
