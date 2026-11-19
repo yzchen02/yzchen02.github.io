@@ -1,14 +1,22 @@
 .page__content { font-size: 1rem; line-height: 1.75; }
 .page__content h2 { scroll-margin-top: 5rem; margin-top: 2.2rem; padding-bottom: .45rem; border-bottom: 1px solid #e5e7eb; }
-.homepage-publications .publication-entry { margin: 1.5rem 0 1.9rem; }
-.homepage-publications .publication-entry h3 { margin: 0 0 .45rem; font-size: 1.08rem; line-height: 1.5; }
-.homepage-publications .publication-entry p { margin: .35rem 0; }
-.homepage-publications .publication-authors { font-size: .92rem; }
-.homepage-publications .publication-venue { font-weight: 600; font-size: .92rem; }
-.homepage-publications .publication-links { font-size: .9rem; }
-@media (max-width: 600px) { .page__content { line-height: 1.65; } }
-.homepage-publications .publication-entry { display:grid; grid-template-columns:minmax(100px,26%) minmax(0,1fr); gap:1rem; align-items:start; padding:1rem; margin:.85rem 0; border:1px solid rgba(100,125,145,.32); border-radius:.6rem; background:rgba(112,145,160,.045); }
-.paper-thumb { width:100%; height:auto; max-height:10rem; object-fit:contain; align-self:center; border-radius:.3rem; background:white; }
-.homepage-publications .publication-venue { display:inline-block; padding:.08rem .45rem; border-radius:.25rem; background:rgba(75,154,168,.16); }
-#experiences + ul { list-style:none; padding-left:1em; border-left:3px solid #58a5ad; }
-@media(max-width:560px){ .homepage-publications .publication-entry {grid-template-columns:1fr;} .paper-thumb {width:auto;max-width:100%;max-height:8rem;} }
+
+.homepage-publications .publication-entry {
+  display: grid;
+  grid-template-columns: clamp(6rem, 24%, 10rem) minmax(0, 1fr);
+  align-items: center;
+  gap: 1rem;
+  padding: .85rem 0;
+  line-height: 1.35;
+}
+.publication-entry + .publication-entry { border-top: 1px solid rgba(120,135,145,.32); }
+.homepage-publications .paper-thumb { width: 100%; aspect-ratio: 3 / 2; object-fit: contain; margin: 0; }
+.homepage-publications .paper-info h3 { margin: 0 0 .22rem; font-size: 1rem; line-height: 1.32; }
+.homepage-publications .paper-info p { margin: .15rem 0; font-size: .86rem; }
+.publication-venue, .publication-links { display: inline; }
+.publication-venue { font-weight: 600; margin-right: .55rem !important; }
+.page__content a.kling-link { font-weight: 700; color: var(--global-link-color, #25718a); text-decoration: underline; text-underline-offset: .15em; }
+#experiences + ul { list-style: none; padding-left: 1em; border-left: 3px solid #58a5ad; }
+@media (max-width: 600px) {
+  .homepage-publications .publication-entry { grid-template-columns: 22% minmax(0, 1fr); gap: .65rem; }
+}
