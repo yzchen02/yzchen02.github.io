@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at [Tianjin University](https://www.tju.edu.cn/), advised by Prof. [Jiale Cao](https://jialecao001.github.io/), and a research intern at **Kling AI**. I work closely with [Xuyang Liu](https://xuyang-liu16.github.io/).
+I am a master's student at [Tianjin University](https://www.tju.edu.cn/), advised by Prof. [Jiale Cao](https://jialecao001.github.io/), and a research intern at the Foundation Model Center at [**Kling AI**](https://app.klingai.com/). I work closely with [Xuyang Liu](https://xuyang-liu16.github.io/).
 
 My research interests include **AI agents** and **LLM post-training**. I currently focus on **visual coding agents**. I build training environments and benchmarks to study how LLMs can write code to create videos and animated Blender scenes, inspect what they render, and revise their code using visual feedback.
 
@@ -28,9 +28,9 @@ My research interests include **AI agents** and **LLM post-training**. I current
 ## 💼 Research Experience
 {: #experiences}
 
-- **Kling AI** · Research Intern · Jun. 2026 – Present<br>
+- [**Kling AI**](https://app.klingai.com/) · Foundation Model Center · Research Intern · Jun. 2026 – Present<br>
   Visual coding agents, programmatic video and 4D scene generation, and multimodal agent training.
-- **Kuaishou · Foundation Model Center** · Research Intern · Feb. 2026 – Jun. 2026<br>
+- **Kuaishou** · Department of Foundation Models and Applications · Research Intern · Feb. 2026 – Jun. 2026<br>
   Keye-VL-2.0: multimodal post-training, multi-teacher on-policy distillation, and reinforcement learning for visual reasoning.
 - **iFLYTEK AI Research Institute** · Research Intern · Dec. 2023 – Apr. 2024<br>
   Diffusion-based visual text synthesis and long-sequence handwriting generation.
