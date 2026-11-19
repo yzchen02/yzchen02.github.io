@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at <a href="https://www.tju.edu.cn/"><img class="affiliation-icon" width="20" height="20" src="/images/tju-icon.png" alt="">Tianjin University</a>, advised by Prof. [Jiale Cao](https://jialecao001.github.io/), and a research intern at the Foundation Model Center at <a class="company-link" href="https://app.klingai.com/"><img class="affiliation-icon" width="20" height="20" src="/images/kling-icon.png" alt="">Kling AI</a>. I work closely with [Xuyang Liu](https://xuyang-liu16.github.io/).
+I am a master's student at <a href="https://www.tju.edu.cn/"><img class="affiliation-icon" width="20" height="20" src="/images/tju-icon.png" alt="">Tianjin University</a>, advised by Prof. [Jiale Cao](https://jialecao001.github.io/), and a research intern at the Foundation Model Center at <a class="company-link" href="https://app.klingai.com/"><img class="affiliation-icon" width="20" height="20" src="/images/kling-icon.png" alt="">Kling AI</a>. I am fortunate to work closely with [Xuyang Liu](https://xuyang-liu16.github.io/).
 
 My research interests include **AI agents** and **LLM post-training**, with a current focus on **visual coding agents**. I build environments where LLMs can write code, render videos and animated Blender scenes, and inspect the results. I design benchmarks to evaluate their work and synthesize training data for supervised fine-tuning (SFT) and reinforcement learning (RL). In particular, I study how agents can learn from visual feedback over successive revisions through agentic RL.
 
