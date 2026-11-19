@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yuzhe Chen/Aidan"
+title                    : "Yuzhe Chen"
 title_separator          : "-"
 name                     : &name "Yuzhe Chen"
-description              : &description "M.S.@TJU"
+description              : &description "Visual coding agents, multimodal reasoning, and programmatic visual creation."
 url                      : https://yzchen02.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "yzchen02/yzchen02.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Yuzhe Chen"
   pronouns         : # example: "she/her"  
-  bio              : "M.S.@TJU"
+  bio              : "M.S. @ Tianjin University · Visual Coding Agents"
   location         : "Tianjin,China"
   employer         : "Tianjin University"
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "yzchen02"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

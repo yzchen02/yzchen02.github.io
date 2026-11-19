@@ -1,0 +1,9 @@
+.page__content { font-size: 1rem; line-height: 1.75; }
+.page__content h2 { scroll-margin-top: 5rem; margin-top: 2.2rem; padding-bottom: .45rem; border-bottom: 1px solid #e5e7eb; }
+.homepage-publications .publication-entry { margin: 1.5rem 0 1.9rem; }
+.homepage-publications .publication-entry h3 { margin: 0 0 .45rem; font-size: 1.08rem; line-height: 1.5; }
+.homepage-publications .publication-entry p { margin: .35rem 0; }
+.homepage-publications .publication-authors { font-size: .92rem; }
+.homepage-publications .publication-venue { font-weight: 600; font-size: .92rem; }
+.homepage-publications .publication-links { font-size: .9rem; }
+@media (max-width: 600px) { .page__content { line-height: 1.65; } }
