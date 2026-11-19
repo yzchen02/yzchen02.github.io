@@ -19,3 +19,5 @@
 @media (max-width: 600px) {
   .homepage-publications .publication-entry { grid-template-columns: 22% minmax(0, 1fr); gap: .65rem; }
 }
+
+.page__content img.affiliation-icon { display: inline-block; width: 1.15em; height: 1.15em; margin: 0 .25em 0 0; vertical-align: -.18em; object-fit: contain; }
