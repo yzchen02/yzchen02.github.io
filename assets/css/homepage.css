@@ -13,9 +13,8 @@
 .homepage-publications .paper-thumb { width: 100%; aspect-ratio: 3 / 2; object-fit: contain; margin: 0; }
 .homepage-publications .paper-info h3 { margin: 0 0 .22rem; font-size: 1rem; line-height: 1.32; }
 .homepage-publications .paper-info p { margin: .15rem 0; font-size: .86rem; }
-.publication-venue, .publication-links { display: inline; }
-.publication-venue { font-weight: 600; margin-right: .55rem !important; }
-.page__content a.kling-link { font-weight: 700; color: var(--global-link-color, #25718a); text-decoration: underline; text-underline-offset: .15em; }
+.publication-venue { font-style: italic; }
+.page__content a.company-link { font-weight: 700; color: var(--global-link-color, #25718a); text-decoration: underline; text-underline-offset: .15em; }
 #experiences + ul { list-style: none; padding-left: 1em; border-left: 3px solid #58a5ad; }
 @media (max-width: 600px) {
   .homepage-publications .publication-entry { grid-template-columns: 22% minmax(0, 1fr); gap: .65rem; }

@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at [Tianjin University](https://www.tju.edu.cn/), advised by Prof. [Jiale Cao](https://jialecao001.github.io/), and a research intern at the Foundation Model Center at <a class="kling-link" href="https://app.klingai.com/">Kling AI</a>. I work closely with [Xuyang Liu](https://xuyang-liu16.github.io/).
+I am a master's student at [Tianjin University](https://www.tju.edu.cn/), advised by Prof. [Jiale Cao](https://jialecao001.github.io/), and a research intern at the Foundation Model Center at <a class="company-link" href="https://app.klingai.com/">Kling AI</a>. I work closely with [Xuyang Liu](https://xuyang-liu16.github.io/).
 
-My research interests include **AI agents** and **LLM post-training**. I currently focus on **visual coding agents**. I build training environments and benchmarks to study how LLMs can write code to create videos and animated Blender scenes, inspect what they render, and revise their code using visual feedback.
+My research interests include **AI agents** and **LLM post-training**, with a current focus on **visual coding agents**. I build environments where LLMs can write code, render videos and animated Blender scenes, and inspect the results. I design benchmarks to evaluate their work and synthesize training data for supervised fine-tuning (SFT) and reinforcement learning (RL). In particular, I study how agents can learn from visual feedback over successive revisions through agentic RL.
 
 ## 🔥 News
 {: #news}
@@ -28,11 +28,11 @@ My research interests include **AI agents** and **LLM post-training**. I current
 ## 💼 Research Experience
 {: #experiences}
 
-- <a class="kling-link" href="https://app.klingai.com/">Kling AI</a> · Foundation Model Center · Research Intern · Jun. 2026 – Present<br>
+- <a class="company-link" href="https://app.klingai.com/">Kling AI</a> · Foundation Model Center · Research Intern · Jun. 2026 – Present<br>
   Visual coding agents, programmatic video and 4D scene generation, and multimodal agent training.
-- **Kuaishou** · Department of Foundation Models and Applications · Research Intern · Feb. 2026 – Jun. 2026<br>
+- <a class="company-link" href="https://www.kuaishou.com/">Kuaishou</a> · Department of Foundation Models and Applications · Research Intern · Feb. 2026 – Jun. 2026<br>
   Keye-VL-2.0: multimodal post-training, multi-teacher on-policy distillation, and reinforcement learning for visual reasoning.
-- **iFLYTEK AI Research Institute** · Research Intern · Dec. 2023 – Apr. 2024<br>
+- <a class="company-link" href="https://www.iflytek.com/">iFLYTEK AI Research Institute</a> · Research Intern · Dec. 2023 – Apr. 2024<br>
   Diffusion-based visual text synthesis and long-sequence handwriting generation.
 
 ## 🎓 Education
